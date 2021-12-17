@@ -1,4 +1,4 @@
-name = "casper3"
+name = "casper"
 license = "MIT"
 licenselink = "https://github.com/jonathanjanssens/hugo-casper3/blob/master/LICENSE"
 description = "The default Casper version 3 theme from Ghost CMS ported over to Hugo"
